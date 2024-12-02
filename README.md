@@ -28,7 +28,7 @@ Develop a `compose.yml` file to deploy a multi-service application. This file wi
        - Built from a `Dockerfile` in the current directory.
        - Depends on Elasticsearch for data.
        - Runs on port `5000`.
-       - Uses a local directory to store its code for development.
+       - **Uses a local directory to store its code for development.**
 
 2. **Compose File Requirements**
    - Your `compose.yml` file should:
